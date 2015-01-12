@@ -1,6 +1,8 @@
 # Tic Tac Toe
 *n-dimensional*
 
+![Capture](https://raw.githubusercontent.com/debowin/tic-tac-toe/master/cap.jpg)
+
 ## Features:
 1. 3x3, 4x4, 5x5 and so on - Play with a dimension size of your choosing.
 2. Intuitive method for detecting a draw early on.
