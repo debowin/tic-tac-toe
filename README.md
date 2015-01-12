@@ -1,5 +1,5 @@
 # Tic Tac Toe
-* n-dimensional *
+*n-dimensional*
 
 ## Features:
 1. 3x3, 4x4, 5x5 and so on - Play with a dimension size of your choosing.
